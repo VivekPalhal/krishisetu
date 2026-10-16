@@ -1,0 +1,6 @@
+{
+  "name": "AgriBridge - किसान सेतु",
+  "description": "Empowering rural farmers with high-contrast tactile produce selling, live mandi prices, instant crop damage insurance claims, and voice assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
